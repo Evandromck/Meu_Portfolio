@@ -23,6 +23,7 @@ Meu portfólio onde apliquei alguns conhecimentos que eu possuo
 
 ## Link
 **live preview**: 
+https://evandromck.github.io/Meu_Portfolio-main/
 
 
 ## Obs
