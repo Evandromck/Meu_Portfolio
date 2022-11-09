@@ -1,4 +1,8 @@
 # Meu Portfolio
+![image](https://user-images.githubusercontent.com/64655153/200821964-7a6a4816-fd89-43cf-b596-184d852d9dfd.png)
+
+
+
 
 ### Sobre o projeto
 Meu portfólio onde apliquei alguns conhecimentos que eu possuo 
@@ -23,7 +27,7 @@ Meu portfólio onde apliquei alguns conhecimentos que eu possuo
 
 ## Link
 **live preview**: 
-https://evandromck.github.io/Meu_Portfolio-main/
+https://evandromck.github.io/Meu_Portfolio/
 
 
 ## Obs
